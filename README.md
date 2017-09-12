@@ -20,6 +20,6 @@
       
  3.执行sql时,会打印出日志
  
- ` ID：com.mybaits.plugin.test.UserMapper.findAllUser
- ` Execute SQL： select id, username, password, birthday, sex, address from user
- ` Time：17 ms
+ ` ID：com.mybaits.plugin.test.UserMapper.findAllUser </br>
+ ` Execute SQL： select id, username, password, birthday, sex, address from user </br>
+ ` Time：17 ms </br>
